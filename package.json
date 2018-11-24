@@ -44,7 +44,7 @@
     "jest": "^21.0.0",
     "json": "^9.0.4",
     "mocha": "^3.0.2",
-    "npm-run-all": "^4.0.2",
+    "npm-run-all": "^4.1.4",
     "prop-types": "^15.6.0",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
